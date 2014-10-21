@@ -1,0 +1,21 @@
+{
+    "name": "AspNet.Http.ETag",
+    "version": "1.0.0-beta",
+    "dependencies": {
+        "Microsoft.AspNet.Http": "1.0.0-*",
+        "Microsoft.AspNet.Http.Extensions": "1.0.0-*",
+        "Microsoft.Framework.Logging.Interfaces": { "version": "1.0.0-*", "type": "build" }
+    },
+    "frameworks": {
+        "aspnet50": {},
+        "aspnetcore50": {
+            "System.Collections.Concurrent": "4.0.0-beta-*",
+            "System.Collections": "4.0.10-beta-*",
+            "System.Globalization": "4.0.10-beta-*",
+            "System.Runtime": "4.0.20-beta-*",
+            "System.Runtime.Extensions": "4.0.10-beta-*",
+            "System.Linq": "4.0.0-beta-*",
+            "System.Threading": "4.0.0-beta-*"
+        }
+    }
+}
