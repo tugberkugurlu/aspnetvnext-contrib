@@ -1,0 +1,8 @@
+{
+    "name": "AspNet.Common",
+    "version": "1.0.0-beta",
+    "frameworks": {
+        "net45": {
+        }
+    }
+}
